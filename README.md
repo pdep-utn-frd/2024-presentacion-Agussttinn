@@ -1,10 +1,13 @@
-# presentacion-
+# Presentacion.
+  ## Hola. 😄
+  Mi nombre es Agustin tengo 21 años, actualmete estoy cursando mi segundo año en ingenieria en sistemas
+  
+  ## mis pasatiempos son:
+    
+  
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+  
+  
+    
 
-Ya saben usar git!
+
